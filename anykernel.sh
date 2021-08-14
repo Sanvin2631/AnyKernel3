@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PhoenixKernel by Harikumar @ xda-developers
+kernel.string=MinionsKernel By Sanvin @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -61,4 +61,6 @@ append_file fstab.tuna "usbdisk" fstab;
 
 write_boot;
 ## end install
+
+
 
