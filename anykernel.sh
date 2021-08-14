@@ -1,5 +1,5 @@
 # AnyKernel3 Ramdisk Mod Script
-# osm0sis @ xda-developers
+# Sanvin @ xda-developers
 
 ## AnyKernel setup
 # begin properties
@@ -61,6 +61,7 @@ append_file fstab.tuna "usbdisk" fstab;
 
 write_boot;
 ## end install
+
 
 
 
